@@ -1,4 +1,3 @@
-```markdown
 # 📊 Flask App Monitoring with Prometheus & Grafana on Minikube
 
 This project is about setting up a simple Flask app, deploying it on a local Kubernetes cluster (Minikube), and monitoring it using Prometheus and Grafana. The goal was to simulate a production-style observability setup where metrics from a web app are collected, scraped, and visualized using industry-standard tools.
